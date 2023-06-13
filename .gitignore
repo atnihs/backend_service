@@ -145,3 +145,6 @@ test
 # Data
 data
 plugins
+
+# Exception file ambiguity
+serviceAccountKey.json

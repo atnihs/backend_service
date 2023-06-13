@@ -9,7 +9,6 @@ const { registerSocketServer } = require('./utils/socketIo')
 const app = express()
 const bodyParser = require('body-parser')
 const server = require('http').Server(app)
-// const { handleNotify } = require('./utils/handleNotify')
 const cors = require('cors')
 registerSocketServer(server)
 

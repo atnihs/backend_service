@@ -146,5 +146,6 @@ test
 data
 plugins
 
-# Exception file ambiguity
+# Exception folder or file ambiguity
 secret
+public
